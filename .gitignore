@@ -1,0 +1,6 @@
+__pycache__
+config.json
+*.pth
+output.bin
+scale_stats.npy
+vocoder_config.json
